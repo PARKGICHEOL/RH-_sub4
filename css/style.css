@@ -1,0 +1,80 @@
+
+.box{
+    border: 1px solid #adadad;
+    border-bottom: 2px solid #adadad;
+    border-left: none;
+    
+    
+}
+.box div{height: 100px;
+    overflow: auto;
+    padding: 20px;
+    width: 560px;}
+dl{
+    padding-top: 20px;
+}
+dt{
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+.agree{
+   text-align: right; 
+   padding: 5px 0;
+   position: absolute;
+   right: 0;
+   top: 620px;
+}
+.agree input{
+    vertical-align: middle;
+}
+table{
+   border-top: 2px solid #adadad;
+   width: 100%; 
+   border-collapse: collapse;
+}
+th, td{
+    border-bottom: 2px solid #adadad;
+    padding: 12px 0px 12px 10px;
+    text-align: left;
+    font-weight: normal;
+}
+table input{
+    border: 1px solid #adadad;
+    padding: 5px;
+}
+table input::placeholder{
+    color: #eb8f22
+}
+
+
+.tel{
+    width: 66px;
+}
+#text{
+    border: 1px solid #ccc;
+    width: 600px;
+    height: 70px;
+    outline: 0;
+}
+#number{
+    width: 169px;
+}
+.btn{
+    text-align: center;
+    padding: 20px 0;
+}
+input[type="submit"]{
+    border: 0;
+    background-color: #eb8f22;
+    color: #fff;
+    padding: 10px 20px;
+}
+.text1{height: 100px;}
+th{background-color: #f4f4f4;}
+.text2{padding-bottom: 119px;
+      }
+span{color: #eb8f22;}
+.contents2-2{position: absolute;
+            top: 0;
+            left: 0;}
+.text3{text-align: center;}
