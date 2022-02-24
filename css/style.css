@@ -22,7 +22,7 @@ dt{
    padding: 5px 0;
    position: absolute;
    right: 0;
-   top: 620px;
+   top: 630px;
 }
 .agree input{
     vertical-align: middle;
@@ -67,7 +67,7 @@ input[type="submit"]{
     border: 0;
     background-color: #eb8f22;
     color: #fff;
-    padding: 10px 20px;
+    padding: 10px 80px;
 }
 .text1{height: 100px;}
 th{background-color: #f4f4f4;}
