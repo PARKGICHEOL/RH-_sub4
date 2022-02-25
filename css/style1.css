@@ -22,7 +22,7 @@ dt{
    padding: 5px 0;
    position: absolute;
    right: 0;
-   top: 690px;
+   top: 618px;
 }
 .agree input{
     vertical-align: middle;
@@ -61,7 +61,7 @@ table input::placeholder{
 }
 .btn{
     text-align: center;
-    padding: 20px 0;
+    padding: 60px 0;
 }
 input[type="submit"]{
     border: 0;
