@@ -9,7 +9,7 @@
 .box div{height: 100px;
     overflow: auto;
     padding: 20px;
-    width: 560px;}
+    width: 500px;}
 dl{
     padding-top: 20px;
 }
@@ -34,7 +34,7 @@ table{
 }
 th, td{
     border-bottom: 2px solid #adadad;
-    padding: 12px 0px 12px 10px;
+    padding: 12px 17px 12px 10px;
     text-align: left;
     font-weight: normal;
 }
@@ -52,7 +52,7 @@ table input::placeholder{
 }
 #text{
     border: 1px solid #ccc;
-    width: 600px;
+    width: 500px;
     height: 70px;
     outline: 0;
 }
@@ -77,4 +77,4 @@ span{color: #eb8f22;}
 .contents2-2{position: absolute;
             top: 0;
             left: 0;}
-.text3{text-align: center;}
+.text3{text-align: left;}
